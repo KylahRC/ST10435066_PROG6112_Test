@@ -7,6 +7,6 @@ public class RunApplication
         Scanner scanner = new Scanner(System.in);
 
         System.out.println("Enter the accident vehicle type: ");
-        RoadAccidents.accidentVehicleType
+
     }
 }
